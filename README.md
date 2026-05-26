@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/better-when-with-you/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Better When With You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/better-when-with-you/) |
+| **Get License** | [Request Licensing for Better When With You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/better-when-with-you/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The neon flickers on an empty street
+> A quiet corner where our shadows meet
+> I pour the whiskey, but you are the wine
+> I pull you closer just to make you mine
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

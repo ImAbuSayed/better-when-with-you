@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Better When With You
+
+This log tracks the cryptographic history and versioning for the song **Better When With You** (better-when-with-you).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-26T06:16:28.709883 | `v1` | `29de388bbb3d4cc86981d21fefee81211b7f79139a475fcba6cf7503a7c559e7` | `f5bb6422b1e3bf83f06134d1829edf9890dc57d736461d303f22a61af522ff94` | `2026-05-26_better-when-with-you-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
